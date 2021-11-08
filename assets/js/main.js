@@ -1,15 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
 const contentContainer = document.querySelector('#content-container')
 const cartCounterLabel = document.querySelector('#cart-counter-label')
 
